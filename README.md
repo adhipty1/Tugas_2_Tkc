@@ -1,2 +1,2 @@
-# Tugas_2_Tkc
-Tugas 2 TKC
+# flask-image-processing
+ flask-image-processing
